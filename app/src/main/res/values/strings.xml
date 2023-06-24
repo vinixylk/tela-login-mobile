@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="app_slogan">AVICULTURA SILSAN</string>
+    <string name="app_welcome">BEM-VINDO</string>
+    <string name="app_forgot_password">ESQUECEU SUA SENHA?</string>
+    <string name="app_register">REGISTRE-SE</string>
+    <string name="app_email">EMAIL</string>
+    <string name="app_password">SENHA</string>
+</resources>
